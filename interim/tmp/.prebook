@@ -1,10 +1,10 @@
 [
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 1."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "A Not Unnatural Enterprise"
   },
   {
@@ -588,11 +588,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 2."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Rash Advances"
   },
   {
@@ -1024,11 +1024,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 3."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "A Peculiar Imprisonment"
   },
   {
@@ -1584,11 +1584,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 4."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Our Venture"
   },
   {
@@ -2088,11 +2088,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 5."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "A Unique History"
   },
   {
@@ -2568,11 +2568,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 6."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Comparisons Are Odious"
   },
   {
@@ -2980,11 +2980,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 7."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Our Growing Modesty"
   },
   {
@@ -3408,11 +3408,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 8."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "The Girls Of Herland"
   },
   {
@@ -3856,11 +3856,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 9."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Our Relations And Theirs"
   },
   {
@@ -4344,11 +4344,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 10."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Their Religions And Our Marriages"
   },
   {
@@ -4864,11 +4864,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 11."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Our Difficulties"
   },
   {
@@ -5185,15 +5185,11 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>  I’ve taken my fun where I found it.\n  I’ve rogued and I’ve ranged in my time,</p>"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "and"
+    "innerHtml": "<p>I’ve taken my fun where I found it.<br>I’ve rogued and I’ve ranged in my time,<br>and</p>"
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>  The things that I learned from the yellow and black,\n  They ‘ave helped me a ‘eap with the white.</p>"
+    "innerHtml": "<p>The things that I learned from the yellow and black,<br>They ‘ave helped me a ‘eap with the white.</p>"
   },
   {
     "tag": "p",
@@ -5229,7 +5225,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Terry had his own ideas, as I’ve tried to show. I daresay he thought he had a right to do as he did. Perhaps he even convinced himself that it would be better for her. Anyhow, he hid himself in her bedroom one night..."
+    "innerHtml": "Terry had his own ideas, as I’ve tried to show. I daresay he thought he had a right to do as he did. Perhaps he even convinced himself that it would be better for her. Anyhow, he hid himself in her bedroom one night…"
   },
   {
     "tag": "p",
@@ -5276,11 +5272,11 @@
     "innerHtml": ""
   },
   {
-    "tag": "h3",
+    "tag": "h4",
     "innerHtml": "Chapter 12."
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Expelled"
   },
   {
@@ -5666,9 +5662,5 @@
   {
     "tag": "hr",
     "innerHtml": ""
-  },
-  {
-    "tag": "h3",
-    "innerHtml": "The End"
   }
 ]

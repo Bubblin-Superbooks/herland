@@ -8,13 +8,14 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "cover": {
-    "punchline": "",
-    "toc": "",
-    "author_detail": "",
-    "colophon": "",
-    "synopsis": ""
-  },
+  "punchline": "",
+  "category": "fiction",
+  "language": "EN",
+  "publisher": "sponsored",
+  "table_of_contents": "",
+  "author_detail": "",
+  "colophon": "",
+  "summary": "",
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/herland/master/assets",
   "book_id": 928,
