@@ -1,13 +1,39 @@
 .publisher {
-    width: 85%;
+  width: 85%;
+}
+
+table {
+  background-color: #f9f9f9;
+  margin: calc((4 * var(--vmin) * 3) / 2) calc(5 * var(--vmin));
+  font-size: calc((60 / 100) * 4 * var(--vmin));
+}
+
+table tr td {
+  padding: 0 calc((4 * var(--vmin) * 1.5) / 2);
+}
+
+table tr:nth-child(odd) td {
+  background: #ffffff;
+}
+
+/* Dark mode (or light) depending on requirement. */
+@media screen and (prefers-color-scheme: dark) {
+  table {
+    color: #fff;
+    background-color: #393939;
+  }
+
+  table tr:nth-child(odd) td {
+    background-color: #555;
+  }
 }
 
 ul.seal {
-    margin: calc(4 * var(--vmin)) 0 0 calc(4 * var(--vmin));
-    padding: 0;
-    list-style: none;
+  margin: calc(4 * var(--vmin)) 0 0 calc(4 * var(--vmin));
+  padding: 0;
+  list-style: none;
 }
 
 ul.seal li {
-    list-style: none;
+  list-style: none;
 }
