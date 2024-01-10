@@ -230,7 +230,7 @@ img {
   display: block !important;
   margin: calc(1 / 2 * 4 * var(--vmin) * 1.5) auto;
 }
-
+ 
 .justify {
   text-align: justify;
 }
@@ -387,6 +387,21 @@ hr {
   border-bottom: calc(0.1 * var(--vmin)) dashed hsla(0, 0%, 50%, 0.5);
 }
 
+table {
+  background-color: #f9f9f9;
+  margin: calc((4 * var(--vmin) * 3) / 2) calc(5 * var(--vmin));
+  font-size: calc((60 / 100) * 4 * var(--vmin));
+}
+
+table tr td {
+  padding: 0 calc((4 * var(--vmin) * 1.5) / 2); 
+}
+
+table tr:nth-child(odd) td {
+  background:#ffffff;
+}
+
+
 /* Accessibility specific media queries go below. */
 
 /* 1. Dark mode (or light) depending on requirement. */
@@ -409,6 +424,13 @@ hr {
   ol li,
   ol li::before {
     color: #fff;
+  }
+  table {
+    color: #fff;
+    background-color: #393939;
+  }
+  table tr:nth-child(odd) td {
+    background-color: #555;
   }
 }
 
