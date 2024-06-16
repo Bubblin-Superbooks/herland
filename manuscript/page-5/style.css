@@ -3,7 +3,7 @@
   height: 80%;
 }
 .inner-face h1 {
-  font-size: calc(6 * var(--vmin));
+  font-size: calc(10 * var(--vmin));
   margin: 0;
   padding: 0;
 }
