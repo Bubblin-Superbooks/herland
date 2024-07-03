@@ -17,12 +17,12 @@ import delayed from 'delayed'
 // Preprocessors / Transpilers
 import haml from 'gulp-haml'
 import markdown from 'gulp-markdown'
-import nodeSass from "node-sass"
-import gulpSass from 'gulp-sass' //(require('node-sass'))
+import dartSass from 'sass';
+import gulpSass from 'gulp-sass';
 import less from 'gulp-less'
 import stylus from 'gulp-stylus'
 
-const sass = gulpSass(nodeSass)
+const sass = gulpSass(dartSass);
 
 // const postcss from 'gulp-postcss'
 

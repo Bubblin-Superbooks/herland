@@ -4,12 +4,12 @@
 
 table {
   background-color: #f9f9f9;
-  margin: calc((4 * var(--vmin) * 3) / 2) calc(5 * var(--vmin));
-  font-size: calc((60 / 100) * 4 * var(--vmin));
+  margin: calc((4 * var(--bmin) * 3) / 2) calc(5 * var(--bmin));
+  font-size: calc((60 / 100) * 4 * var(--bmin));
 }
 
 table tr td {
-  padding: 0 calc((4 * var(--vmin) * 1.5) / 2);
+  padding: 0 calc((4 * var(--bmin) * 1.5) / 2);
 }
 
 table tr:nth-child(odd) td {
@@ -29,7 +29,7 @@ table tr:nth-child(odd) td {
 }
 
 ul.seal {
-  margin: calc(4 * var(--vmin)) 0 0 calc(4 * var(--vmin));
+  margin: calc(4 * var(--bmin)) 0 0 calc(4 * var(--bmin));
   padding: 0;
   list-style: none;
 }

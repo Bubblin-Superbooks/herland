@@ -1,7 +1,7 @@
 /* Page-2 */
 .instruct {
-    width: calc(18 * var(--vmin));
-    height: calc(15 * var(--vmin));
+    width: calc(18 * var(--bmin));
+    height: calc(15 * var(--bmin));
     z-index: 10;
     margin: 0 auto;
     background: rgba(0, 0, 0, 0.85);
@@ -16,41 +16,41 @@
   }
   @-webkit-keyframes ud {
     0% {
-      top: calc(-2 * var(--vmin));
+      top: calc(-2 * var(--bmin));
       left: 0;
     }
     20% {
       top: 0;
-      left: calc(-1.5 * var(--vmin));
+      left: calc(-1.5 * var(--bmin));
       -webkit-transform: rotate(10deg);
       transform: rotate(10deg);
     }
     80% {
       top: 0;
-      left: calc(1.5 * var(--vmin));
+      left: calc(1.5 * var(--bmin));
     }
     100% {
-      top: calc(2 * var(--vmin));
+      top: calc(2 * var(--bmin));
       left: 0;
     }
   }
   @keyframes ud {
     0% {
-      top: calc(-2 * var(--vmin));
+      top: calc(-2 * var(--bmin));
       left: 0;
     }
     20% {
       top: 0;
-      left: calc(-1.5 * var(--vmin));
+      left: calc(-1.5 * var(--bmin));
       -webkit-transform: rotate(10deg);
       transform: rotate(10deg);
     }
     80% {
       top: 0;
-      left: calc(1.5 * var(--vmin));
+      left: calc(1.5 * var(--bmin));
     }
     100% {
-      top: calc(-2 * var(--vmin));
+      top: calc(-2 * var(--bmin));
       left: 0;
     }
   }
