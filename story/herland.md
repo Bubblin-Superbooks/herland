@@ -1,3 +1,32 @@
+===
+
+title: Herland
+[subtitle or punchline]: 
+author: Charlotte Perkins Gilman
+author_detail: "String of text no more than 280 characters."
+illustrators: Alice Cooper, Enya
+
+publisher: [self, or @username]
+seller            
+
+
+subject: 
+summary: 
+support: 
+language:  EN / English
+edition:
+license:
+
+status: [draft, arc, published]
+layout: [novel, comics, photo, custom]
+category: [fiction, non-fiction, automated-writing, other]
+[genres, tags]: [_full_list_of_approved_tags_]
+
+===
+
+# Herland
+
+## Charlotte Perkins Gilman 
 
 #### CHAPTER 1. 
 
@@ -2833,3 +2862,38 @@ Terry was the obstacle. “Indeed I won’t!” he protested. “The first thing
 And he did. With which agreement we at last left Herland.
 
 ---
+
+
+
+===
+
+DDC:                 
+LCC                  
+bisacs               
+
+citations:
+colophon:
+summary:          
+country_of_origin:
+dead_tree_url:
+
+
+
+front:
+has_page_numbers:  true/false
+
+is_balanced:
+is_illustrated:
+
+imprint:            
+isbn:               
+keywords:             
+learning_standard: 
+reading_level:
+grade_level:          
+guided_reading_level: 
+lexile:
+onix:
+
+
+===
