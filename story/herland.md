@@ -1,15 +1,17 @@
 ===
 
 title: Herland
-[subtitle or punchline]: 
+subtitle: or punchline: 
 author: Charlotte Perkins Gilman
 author_detail: "String of text no more than 280 characters."
 illustrators: Alice Cooper, Enya
 
 publisher: [self, or @username]
-seller            
+seller:            
+isbn:
 
 
+front:
 subject: 
 summary: 
 support: 
@@ -2877,16 +2879,12 @@ summary:
 country_of_origin:
 dead_tree_url:
 
-
-
-front:
-has_page_numbers:  true/false
-
 is_balanced:
-is_illustrated:
+is_illustrated: 
+is_series: 
+has_page_numbers:  
 
 imprint:            
-isbn:               
 keywords:             
 learning_standard: 
 reading_level:
@@ -2894,6 +2892,5 @@ grade_level:
 guided_reading_level: 
 lexile:
 onix:
-
 
 ===
